@@ -28,7 +28,7 @@ A Discord TicTacToe game that uses Discord UI buttons as the game field.
    pip install -r requirements.txt
    ```
 ### Add to an Existing Project
-1. Copy or download the `tictactoe.py` file into your project.
+1. Copy or download the [tictactoe.py](tictactoe.py) file into your project.
 2. Ensure compatibility with your **discord.py** version.
 
 ## License
