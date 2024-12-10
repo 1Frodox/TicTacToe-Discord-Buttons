@@ -2,7 +2,7 @@
 
 A Discord TicTacToe game that uses Discord UI buttons as the game field.
 
-- **Slash Commands**: Players can start a game using simple commands.
+- **Slash Commands**: Players can start a game using a slash-command.
 - **Interactive Buttons**: Players make their moves using Discord buttons.
 - **Timeouts**: Cancels inactive games to conserve bot resources.
 
